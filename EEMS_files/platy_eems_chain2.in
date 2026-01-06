@@ -1,0 +1,9 @@
+datapath = /home/fernanda/eems/teste/platyrinchus/input_platy/platy_eems
+mcmcpath = /home/fernanda/eems/teste/platyrinchus/final_d400/output_run2
+nIndiv = 56
+nSites = 1833
+nDemes = 400
+diploid = true
+numMCMCIter = 20000000
+numBurnIter = 1000000
+numThinIter = 9999
